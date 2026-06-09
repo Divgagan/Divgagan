@@ -2,7 +2,7 @@
 
 # ⚡ GAGAN DIWAKAR ⚡
 
-🟢 **AI SYSTEMS • AUTONOMY • MULTI-MODAL INTELLIGENCE**
+🟢 **AI SYSTEMS • DEEP LEARNING • HIGH PERFORMANCE COMPUTING**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Deploy-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-gagan-nu.vercel.app/)
 
@@ -18,11 +18,9 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
 
 **☁️ Cloud & DevOps**
 
@@ -31,7 +29,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **🤖 AI / ML**
 
@@ -42,24 +39,26 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**⚡ HPC & Systems**
+
+![OpenMP](https://img.shields.io/badge/OpenMP-0071C5?style=flat-square&logo=intel&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-FF6600?style=flat-square&logo=gnu&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat-square&logo=cmake&logoColor=white)
 
 **🌐 Web & Frameworks**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 **🗄️ Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -89,18 +88,22 @@
 
 ```bash
 $ whoami
-  Gagan Diwakar — AI/ML Engineer & Full Stack Developer
+  Gagan Diwakar — AI/ML Engineer & Deep Learning Researcher
 
 $ cat interests.txt
-  > Building intelligent systems
-  > LLM Applications & RAG Pipelines
-  > Multi-Modal AI Research
+  > Traffic AI & Graph Neural Networks
+  > High Performance Computing (OpenMP / MPI)
+  > Deep Learning Research
   > Competitive Programming (LeetCode)
+  > Building cool web & AI products
 
 $ ls projects/
-  > AI-Powered-App/
-  > LeetCode-Agent/
-  > Web-Projects/
+  > Traffic_congestion_prediction_using_GNN/
+  > Master_traffic_AI_project_DL/
+  > Porto_taxi_Traffic_prediction/
+  > Hybrid_parallel_graph_OpenMP_MPI/
+  > Portfolio_Gagan/
+  > DSA_in_Cpp/
 
 $ echo $STATUS
   Open to collaborations & opportunities 🚀
@@ -114,12 +117,12 @@ $ echo $STATUS
 
 ![AI](https://img.shields.io/badge/AI-555555?style=flat-square)
 ![ACTIVE](https://img.shields.io/badge/ACTIVE-00FFFF?style=flat-square&logoColor=black)
-![ML](https://img.shields.io/badge/ML-555555?style=flat-square)
+![DEEP_LEARNING](https://img.shields.io/badge/DEEP_LEARNING-555555?style=flat-square)
 ![OPERATIONAL](https://img.shields.io/badge/OPERATIONAL-00FFFF?style=flat-square&logoColor=black)
-![LEARNING](https://img.shields.io/badge/LEARNING-555555?style=flat-square)
+![HPC](https://img.shields.io/badge/HPC-555555?style=flat-square)
 ![BUILDING](https://img.shields.io/badge/BUILDING-00FFFF?style=flat-square&logoColor=black)
-![OPEN SOURCE](https://img.shields.io/badge/OPEN_SOURCE-555555?style=flat-square)
-![PROBLEM SOLVING](https://img.shields.io/badge/PROBLEM_SOLVING-00FFFF?style=flat-square&logoColor=black)
+![DSA](https://img.shields.io/badge/DSA-555555?style=flat-square)
+![PROBLEM_SOLVING](https://img.shields.io/badge/PROBLEM_SOLVING-00FFFF?style=flat-square&logoColor=black)
 
 </div>
 
@@ -127,10 +130,12 @@ $ echo $STATUS
 
 ## 🧠 FEATURED PROJECTS
 
-- **LeetCode Revision Agent** — AI-powered agent for automated LeetCode problem solving & revision
-- **[Add your project 2]** — Description
-- **[Add your project 3]** — Description
-- **[Add your project 4]** — Description
+- **[Traffic Congestion Prediction using GNN](https://github.com/Divgagan/Traffic_congestion_prediction_using_GNN)** — Graph Neural Network model for real-time traffic congestion prediction
+- **[Master Traffic AI — Deep Learning](https://github.com/Divgagan/Master_traffic_AI_project_DL.)** — End-to-end deep learning pipeline for traffic analysis
+- **[Porto Taxi Traffic Prediction](https://github.com/Divgagan/Porto_taxi_Traffic_trediction_)** — ML model predicting taxi traffic patterns using Porto dataset
+- **[Hybrid Parallel Graph — OpenMP & MPI](https://github.com/Divgagan/Hybrid_paralell_graph_using_openmp_-_MPI_)** — High Performance Computing project: parallel graph algorithms using OpenMP + MPI
+- **[Portfolio Website](https://github.com/Divgagan/Portfolio_Gagan)** — Personal portfolio deployed on Vercel
+- **[DSA in C++](https://github.com/Divgagan/DSA_in_Cpp)** — Data Structures & Algorithms implementations in C++/Python
 
 ---
 
